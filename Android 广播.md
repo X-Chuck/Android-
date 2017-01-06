@@ -39,7 +39,8 @@ Android广播能很方便的在组件之间进行通讯
 
 3. 发送广播
 
-    Intent intent = new Intent("cn.testplus.assistant.plugins.unitytest.UploadActivity.RECEIVER");
-    intent.putExtra("status",UploadActivity.UPLOAD_BASEINFO_FAILED);
-                intent.putExtra("msg",result);    
+
+	    Intent intent = new Intent("cn.testplus.assistant.plugins.unitytest.UploadActivity.RECEIVER");
+	    intent.putExtra("status",UploadActivity.UPLOAD_BASEINFO_FAILED);
+	                intent.putExtra("msg",result);    
         
