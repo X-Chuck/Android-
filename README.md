@@ -7,3 +7,4 @@
 3. [Android广播](https://github.com/X-Chuck/Android-/blob/master/Android%20%E5%B9%BF%E6%92%AD.md)
 4. [Android5.0+获取进程列表工具类](https://github.com/X-Chuck/Android-/blob/master/Android%205.0%2B%E8%8E%B7%E5%8F%96%E8%BF%9B%E7%A8%8B%E5%B7%A5%E5%85%B7%E7%B1%BB.md)
 5. [Android搭建Http服务器](https://github.com/X-Chuck/Android-/blob/master/Android%e6%90%ad%e5%bb%baHttp%e6%9c%8d%e5%8a%a1%e5%99%a8.md)
+5. [Android自定义属性](https://github.com/X-Chuck/Android-/blob/master/Android%e8%87%aa%e5%ae%9a%e4%b9%89%e5%b1%9e%e6%80%a7.md)
